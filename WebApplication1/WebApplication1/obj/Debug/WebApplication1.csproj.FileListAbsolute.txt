@@ -1,0 +1,105 @@
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\jonathan\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Jonathan Weston\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
