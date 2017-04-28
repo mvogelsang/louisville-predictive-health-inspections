@@ -1,0 +1,56 @@
+﻿@model IEnumerable<LouisvilleHealthInspections.DataContext.Establishment>
+
+@{
+    @Styles.Render("~/DataTables/css")
+    ViewBag.Title = "Health Inspections Analytics";
+}
+
+<h2>Health Inspections Analytics</h2>
+
+@if (ViewBag.FileNotFound == true)
+{
+    <h2>File not found for establishments</h2>
+}
+
+<table class="table" id="Table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Establishment_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Establishment_Rank)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Establishment_Name)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Establishment_Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Establishment_Rank)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Establishment_Name)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<img src="~/Content/images/Data.png" />
+
+@section scripts{
+    @Scripts.Render("~/scripts/dataTables/jquery.datatables.js")
+    @Scripts.Render("~/scripts/dataTables/datatables.buttons.js")
+    @Scripts.Render("~/scripts/dataTables/buttons.flash.js")
+    @Scripts.Render("~/scripts/dataTables/buttons.html5.js")
+    @Scripts.Render("~/scripts/dataTables/buttons.print.js")
+    @Scripts.Render("~/scripts/healthinspectionsjs.js")
+    }

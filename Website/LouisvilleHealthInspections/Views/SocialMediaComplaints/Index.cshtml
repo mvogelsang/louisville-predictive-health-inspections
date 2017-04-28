@@ -1,0 +1,65 @@
+﻿@model IEnumerable<LouisvilleHealthInspections.DataContext.Tweet>
+
+@{
+    @Styles.Render("~/DataTables/css")
+    ViewBag.Title = "Social Media Complaints";
+}
+
+<h2>Social Media Complaints</h2>
+
+@if (ViewBag.FileNotFound == true)
+{
+    <h2>File not found for tweets</h2>
+}
+
+<table class="table" id="Table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Actual_Message)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Query_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Raw_Message)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tweet_Sent)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Actual_Message)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Query_Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Raw_Message)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tweet_Sent)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section scripts{
+    @Scripts.Render("~/scripts/dataTables/jquery.datatables.js")
+    @Scripts.Render("~/scripts/dataTables/datatables.buttons.js")
+    @Scripts.Render("~/scripts/dataTables/buttons.flash.js")
+    @Scripts.Render("~/scripts/dataTables/buttons.html5.js")
+    @Scripts.Render("~/scripts/dataTables/buttons.print.js")
+    @Scripts.Render("~/scripts/socialmediacomplaintsjs.js")
+}
