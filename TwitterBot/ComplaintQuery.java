@@ -84,7 +84,7 @@ public class ComplaintQuery {
 					firstID = IDs.get((IDs.size() - 1)) + 'L';
 					
 					//If new tweets have been found, run python code to convert the csv file to json
-					Runtime.getRuntime().exec("cmd /c start run.bat");
+					Runtime.getRuntime().exec("cmd /c start runScript.bat");
 									
 				}
 	

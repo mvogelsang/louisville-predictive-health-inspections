@@ -29,15 +29,15 @@ public class TwitterJSON {
 				PrintWriter pw = new PrintWriter(new FileOutputStream(file, true));
 				StringBuilder sb = new StringBuilder();
 				
-				sb.append("Query Date");
+				sb.append("Query_Date");
 				sb.append(',');
-				sb.append("Tweet Sent");
+				sb.append("Tweet_Sent");
 				sb.append(',');
 				sb.append("UserName");
 				sb.append(',');
-				sb.append("Raw Message");
+				sb.append("Raw_Message");
 				sb.append(',');
-				sb.append("Actual Message");
+				sb.append("Actual_Message");
 				sb.append('\n');
 							
 				pw.write(sb.toString());
