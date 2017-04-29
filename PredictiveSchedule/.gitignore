@@ -1,0 +1,10 @@
+clean_data
+raw_data
+LouData.db
+dbdump.db
+dbdump.bak
+*.pyc
+bin
+venv
+bimonthlyCharts
+*.pdf
